@@ -1,6 +1,7 @@
 #  Student registry system
 
 This console python program is desinged to manage the student list of an educational institution.
+the full program can be found [here](https://github.com/thultra19/prueba_de_desempe-o.git/)
 
 ---
 
