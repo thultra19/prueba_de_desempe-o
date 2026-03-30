@@ -47,6 +47,8 @@ Type the ID: 1234567890
 Type the age of the student: 24
 Type down the program the student will be part of: Software engieneering  
 Please type the student's status (active/inactive): active
+```
+```bash
 
 --- MENU ---
 1. Register a student. 
